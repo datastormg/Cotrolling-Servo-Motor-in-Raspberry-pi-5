@@ -3,6 +3,8 @@ Cotrolling Servo Motor with Using Ultrasonic
 
 Raspberry pi 5 is used for controlling the servo motor to move 60° if the distance equal or less than 20 cm.
 
+##Here is a brief explanation of the code.
+
 Imports:
 import RPi.GPIO as GPIO import time
 
