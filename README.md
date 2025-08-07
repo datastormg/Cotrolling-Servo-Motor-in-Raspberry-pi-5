@@ -6,6 +6,10 @@ Raspberry pi 5 is used for controlling the servo motor to move 60° if the dista
 
 
 
+
+https://github.com/user-attachments/assets/7bb018fa-d25d-41a7-9d06-d8fa8121e13a
+
+
 ## Here is a brief explanation of the code.
 
 Imports:
